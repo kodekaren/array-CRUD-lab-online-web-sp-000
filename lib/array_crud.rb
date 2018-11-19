@@ -40,4 +40,3 @@ def retrieve_last_element_from_array(array)
   array = ["wow",1,"am",3,4, "arrays!"]
   array.last
 end
- 
