@@ -33,9 +33,10 @@ end
 
 def retrieve_first_element_from_array(array)
   array = ["wow",1,"am",3,4]
-  array[0]
+  array.first
 end
 
 def retrieve_last_element_from_array(array)
 
 end
+ 
